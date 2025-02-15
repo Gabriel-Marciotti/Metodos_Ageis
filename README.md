@@ -11,9 +11,9 @@
 
 ## Aprendizados
   
-📝 [Anotações](https://1drv.ms/b/s!Aod7i08U7H1kyw_r1-jANkkfyRbV?e=lDheh0) - Completo
+📝 [Anotações](https://1drv.ms/b/c/647dec144f8b7b87/EYd7i08U7H0ggGSPJQAAAAABjAnaamJvljTcdQsCHxdPMg?e=LHrWWU) - Completo
 
 
 ## Documentação
 
-📄 [Certificado](https://1drv.ms/b/s!Aod7i08U7H1kyxL2Cum7ROm6Smk7?e=aDXYjm) - Métodos Ágeis (foco em SCRUM)
+📄 [Certificado](https://1drv.ms/b/c/647dec144f8b7b87/EYd7i08U7H0ggGSSJQAAAAAByMJQk7kvvGjZtUFnBBctVw?e=dSrTMI) - Métodos Ágeis (foco em SCRUM)
